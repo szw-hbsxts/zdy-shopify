@@ -1,0 +1,266 @@
+.gsah{
+    width: 100%;
+    z-index: 99;
+    background: #fff !important;
+    top: 0;
+    border-bottom: 1px solid #ccc;
+}
+.header{
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    position: relative;
+}
+.top-scnk{
+    opacity: 1;
+}
+.men_top {
+    height: 80px;
+}
+.hsj_uuys li div{
+    margin-top: 0;
+}
+.ment_list{
+    display: none;
+    line-height: 80px;
+}
+.sfdg_top{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.sfdg_top li{
+    margin-left: 15px;
+}
+.btn_butt{
+    background: rgb(0 0 0 / 50%);
+    border-radius: 5px;
+}
+.gfd-butn{
+    background-color: #39b54a !important;
+    color: #fff !important;
+    border: 0;
+    border-width: 1px;
+    border-radius: 35px;
+}
+
+.main{
+    margin-top: 80px;
+}
+
+._container {
+    height: 2.8rem;
+    overflow: hidden;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: #ffe9e999;
+}
+
+._container p {
+    height: 2.8rem;
+    line-height: 2.8rem;
+    font-size: 1.4rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-weight: 800;
+    font-family: JosefinSans-BoldItalic;
+}
+
+._container p:first-child {
+    margin-top: 0;
+    transition: margin-top .8s;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+#mini_cart{
+    width: 15px;
+    font-size: 12px;
+    min-width: 10px;
+    padding: 0;
+    height: 15px;
+    right: 5px;
+}
+.logo-flkdkf{
+    display: none;
+}
+.logo-img{
+    width: 100%;
+}
+.bg_dshjs .uk-offcanvas-bar{
+    background-color: white;
+}
+.bg_dshjs .uk-offcanvas-bar button, .bg_dshjs .uk-offcanvas-bar *,.bg_dshjs .uk-offcanvas-bar ul li a.uk-accordion-title{
+    color: #666;
+}
+.bg_dshjs .uk-offcanvas-bar ul li a.uk-accordion-title::before{
+    background-color:#9c9c9c;
+    width: 15px;
+    height: 15px;
+    margin-top: 7px;
+}
+.bg_dshjs .uk-offcanvas-bar ul li a.zdy_title::before{
+    background-color: #fff;
+    display: none;
+}
+.rfjik_zdy{
+    display: block;
+    padding-left: 25px;
+    
+}
+.dha_head svg {
+    width: 30px;
+}
+.sdjnksd_sear {
+    width: 100%;
+    height: 80px;
+}
+.sdjnksd_sear div.uk-offcanvas-bar{
+    width: 100%;
+    height: 80px;
+    padding: 0;
+    top: 0;
+    left: 0;
+    background: #fff;
+}
+.sdjnksd_sear div.uk-offcanvas-bar *{
+        color: #666;
+}
+.dakj_tis{
+    margin-right: 20px;
+}
+#py-mini-cart a{
+    color:#666;
+}
+#py-mini-cart a:hover{
+    color:#666;
+}
+.zdy-sda-title{
+    padding: 0;
+    margin: 0;
+}
+#py-mini-cart .uk-grid li{
+    padding-left: 0px;
+    width: 100%;
+}
+#py-mini-cart .uk-grid{
+    margin-left: 0px;
+}
+#py-mini-cart .uk-grid>*{
+    padding-left: 0px;
+}
+#py-mini-cart h6{
+    padding: 0;
+    margin: 0;
+    
+}
+#py-mini-cart .quantity.dedsjw {
+    border: 1px solid #666;
+    width: 70%;
+    margin: auto;
+    max-width: 100px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #666;
+}
+#py-mini-cart .quantity.dedsjw input{
+    padding: 0px;
+    margin: 0;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    color: #666;
+}
+#py-mini-cart .quantity.dedsjw span{
+    padding: 0px;
+    margin: 0 !important;
+    text-align: center;
+    font-size: 12px;
+    box-sizing: border-box;
+    color: #666;
+}
+.gfd_tit .dsd_tit{
+    text-overflow: -o-ellipsis-lastline;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    padding-left: 12px;
+    font-size: 12px;
+}
+.gfd_tit .asha_viyfg div{
+    padding-left: 12px;
+}
+#py-mini-cart .fgd_price{
+    margin-top: 5px;
+    margin-bottom:5px;
+}
+.bg_dshjs  .jdsh_sdkjjks {
+    width: 414px;
+}
+.bg_dshjs .jdsh_sdkjjks .uk-offcanvas-close{
+    display: none;
+}
+.bg_dshjs .jdsh_sdkjjks .dsdssd{
+    width: 100%;
+}
+@media only screen and (max-width: 640px){
+    .dha_head svg {
+        width: 20px;
+    }
+    .dnskj_mebnt{
+        margin-top: 30px;
+    }
+    .men_top {
+        height: 64px;
+    }
+    .hsj_uuys{
+        display: none;
+    }
+    .ment_list{
+        display: block;
+        line-height: 64px;
+        margin-left: 15px;
+        float: left;
+        border: 0;
+    }
+    .gts_logo{
+        text-align: left;
+    }
+    .logo-default{
+        display: none;
+    }
+    .logo-flkdkf{
+        display: block;
+        width: 70%;
+        max-width: 170px;
+        line-height: 64px;
+        float: left;
+    }
+    .sfdg_top li{
+        margin-left: 5px;
+    }
+    .top-scnk{
+        opacity: 0;
+    }
+    #demo{
+        display: none;
+    }
+    .dakj_tis{
+        display: none;
+    }
+    .bg_dshjs .jdsh_sdkjjks{
+        width: 100%;
+    }
+    .bg_dshjs .jdsh_sdkjjks .uk-offcanvas-close{
+        display:block;
+    }
+    .bg_dshjs .jdsh_sdkjjks .zdy-sda-title{
+        padding-top: 30px;
+    }
+}

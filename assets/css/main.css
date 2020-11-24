@@ -1,0 +1,356 @@
+/* 定义字体 */
+@font-face{
+    font-family: JosefinSans;
+    src: url("./font/JosefinSans-SemiBold.ttf");
+}
+@font-face{
+    font-family: JosefinSans-Bold;
+    src: url("./font/JosefinSans-Bold.ttf");
+}
+@font-face{
+    font-family: JosefinSans-BoldItalic;
+    src: url("./font/JosefinSans-BoldItalic.ttf");
+}
+
+html{
+    font-family: "Microsoft YaHei";
+}
+.mgfsgt{
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+.fdh_size{
+    font-size: 26px;
+    font-family: JosefinSans;
+    font-weight: 800;
+}
+.dsssd{
+    font-size: 48px !important;
+}
+.ggfghd{
+    background-color: #f8f8f8;
+    background-size: cover;
+    padding: 1rem 0;
+}
+
+.dsk_title{
+    margin: 0 auto;
+    margin-top: 48px;
+    margin-bottom: 32px;
+    overflow: hidden;
+}
+
+.dsk_title span{
+    display: block;
+    font-family: JosefinSans-Bold;
+}
+.dsk_title span:first-of-type{
+    font-size: 24px;
+    font-weight: bold;
+}
+.dsk_title span:last-child{
+    font-size: 48px;
+    font-weight: bold;
+}
+.in_prd{
+    overflow: hidden;
+}
+.btn_shss{
+    z-index: 10;
+    position: relative;
+    background: #fff;
+}
+.btn_shss li a{
+    font-size: 1rem !important;
+    font-family: JosefinSans-Bold;
+    font-weight: 800;
+    padding: 0.4rem 1rem !important;
+}
+.btn_shss .uk-active a{
+    background: #000;  
+    color: #fff;
+    border-radius: 5px;
+}
+.tgsh{
+    padding: 2rem 0rem;
+    overflow: hidden;
+    background-color: #f8f8f8;
+    background-size: cover;
+}
+.tgsh .yhsdf{
+    display: block;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: JosefinSans-Bold;
+    color: #000;
+    padding-bottom: 2rem;
+}
+ 
+.tgsh div div div h6{
+    margin-top: 0.5rem;
+    font-family: JosefinSans-Bold;
+}
+
+.tgsh div div div p{
+    font-size: 1.6rem;
+    font-weight: bold;
+    font-family: JosefinSans-BoldItalic;
+}
+
+.fafg{
+    position: absolute;
+    left: 60px;
+    top:16px;
+    max-width:50%;
+    z-index: 2;
+    font-family: JosefinSans-BoldItalic;
+}
+.pro-dshj{
+    left: 16px;
+    top:8px;
+}
+.fafg span{
+    padding: 3px 8px;
+    background-color: #ff0000;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.ggshj_price{
+    overflow: hidden;
+}
+.ggshj_price span.woocommerce-Price-amount.amount{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Microsoft YaHei";
+}
+.ggshj_price del span.woocommerce-Price-amount.amount{
+    color: #a0a0a0;
+    font-size: 14px;
+    font-weight: 100;
+}
+.ggshj_price ins span.woocommerce-Price-amount.amount{
+    color: red;
+}
+.ggshj_price del{
+    background-color: #ffe2e2;
+    padding: 0 0.4rem;
+}
+.ggshj_price ins{
+    background-color: white;
+}
+.djns{
+    background-color: white;
+    z-index: 10;
+    margin-bottom: 1rem;
+}
+.img_ygusg{
+    width: 100%;
+    overflow: hidden;
+    /* Firefox */
+    display:-moz-box;
+    -moz-box-pack:center;
+    -moz-box-align:center;
+
+    /* Safari, Chrome, and Opera */
+    display:-webkit-box;
+    -webkit-box-pack:center;
+    -webkit-box-align:center;
+
+    /* W3C */
+    display:box;
+    box-pack:center;
+    box-align:center;
+}
+
+.img_ygusg img{
+    width: 100%;
+}
+
+.fdskls{
+    display: block;
+    overflow: hidden;
+}
+.fdskls div.uk-margin-top a{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: JosefinSans-BoldItalic;
+}
+
+.but_gff{
+    padding: 8px 20px;
+    border-radius: 9px;
+    background-color: #151515;
+    color: #fff;
+    width: 50%;
+    max-width: 200px;
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: JosefinSans-BoldItalic;
+}
+#main{
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+}
+#main .zdy_pro_cen .zdy_left_lan{
+    width: 20%;
+}
+#main .zdy_pro_cen .zdy_left_lan ul li a.uk-accordion-title{
+    font-size: 30px;
+    color: #666;
+}
+#main .zdy_pro_cen .zdy_left_lan ul li div a{
+    display: block;
+    line-height: 44px;
+    padding-left: 22px;
+    font-size: 22px;
+    color: #666;
+}
+
+#main .zdy_pro_cen .zdy_right_lan{
+    width: 75%;
+}
+.font-bold{
+    font-family: JosefinSans-BoldItalic;
+}
+.title{
+    color: #666;
+}
+
+.gvhsavg{
+    width: 100%;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+.pro_dshjs_btn{
+    width: 100%;
+    margin-left: 0;
+}
+
+@media only screen and (max-width: 640px){
+    .but_gff{
+        font-size: 0.8rem;
+        padding: 5px 10px;
+        width: 80%;
+        max-width: 160px;
+    }
+    
+    .fdskls{
+        padding-bottom: 56px;
+    }
+    .but_gff i{
+       margin-right: 8px; 
+    }
+    .fdskls div.uk-margin-top a {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .dsk_title span:first-of-type {
+        font-size: 18px;
+    }
+    .dsk_title span:last-child {
+        font-size: 36px;
+    }
+    .fafg {
+        left: 38px;
+        top:8px;
+        font-weight: 400;
+    }
+    .pro-dshj{
+        left: 16px;
+        top:8px;  
+    }
+
+    .fafg span {
+        padding: 3px 5px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .dsk_title {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .tgsh .yhsdf {
+        font-size: 28px;
+    }
+    .ggshj_price del span.woocommerce-Price-amount.amount {
+        font-size: 12px;
+    }
+    .ggshj_price span.woocommerce-Price-amount.amount {
+        font-size: 16px;
+    }
+    .fdh_size {
+        font-size: 18px;
+    }
+    .dsssd{
+        font-size: 36px !important;
+    }
+    #main .zdy_pro_cen .zdy_left_lan{
+        display: none;
+    }
+    #main .zdy_pro_cen .zdy_right_lan{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 768px){
+
+    .but_gff i{
+       margin-right: 0.5rem; 
+    }
+    .uk-inline{
+        margin-top: 0 !important;
+    }
+    .uk-inline:hover{
+        margin-top: 0px;
+        z-index: 9;
+    }
+    .uk-inline:hover .img_ygusg{
+        transform: translateY(-46px);
+    }
+    .uk-inline:hover .uk-transition-scale-up {
+        opacity: 1;
+        transform: scale(1.5,1.5);
+    }
+    .uk-inline:hover .fdskls{
+        transform: translateY(-56px);
+    }
+    .uk-inline:hover .but_gff{
+        opacity: 1;
+        transition: opacity 0.15s;
+    }
+}
+@media only screen and (min-width: 960px){
+    .but_gff{
+        opacity: 0;
+    }
+}
+@media only screen and (max-width: 960px){
+    #main .zdy_pro_cen .zdy_left_lan{
+        display: none;
+    }
+    #main .zdy_pro_cen .zdy_right_lan{
+        width: 100%;
+    }
+    .fdskls {
+        padding-bottom: 56px;
+    }
+    .but_gff{
+        font-size: 0.8rem;
+        padding: 5px 10px;
+        width: 80%;
+        max-width: 160px;
+    }
+}
+
+.bsh{
+    display: block;
+    opacity: 1;
+}
